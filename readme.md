@@ -1,3 +1,9 @@
+# Clodui Real Estate Demo Website
+
+Demo URL: https://real-estate-demo1.clodui.com
+
+### License
+
 Thank you for using our template!
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
