@@ -2,6 +2,10 @@
 
 Demo URL: https://real-estate-demo1.clodui.com
 
+## Getting Started with Clodui
+
+Learn more about how to deploy your website to Clodui from here https://www.clodui.com/docs/
+
 ### License
 
 Thank you for using our template!
